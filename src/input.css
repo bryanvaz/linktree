@@ -5,6 +5,7 @@
 body {
   color: white; /* fallback color */
   background-color: #000;
+  min-height: 100vh;
   @apply text-white text-base py-10 bg-fixed bg-no-repeat animate-gradient-shift;
 }
 
